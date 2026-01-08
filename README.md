@@ -63,46 +63,57 @@ blackbox
 
 ---
 
-## 💬 Common Questions to Try
+## 💬 Questions to Try with [Blackbox](https://blackbox.ai) CLI
 
 ### 🏏 Batting
 ```
 > Who scored the most runs in IPL 2025?
-> Show me Virat Kohli's performance in all matches
-> Best strike rate in death overs (minimum 30 balls faced)
-> Which batters hit the most sixes this season?
-> Who are the best finishers when chasing?
+> How many runs did Virat Kohli score in the final?
+> Best strike rate in death overs
+> Who hit the most sixes this season? 💥
+> Top 5 highest individual scores
+> Which opener has the best average?
 ```
 
 ### 🎯 Bowling
 ```
 > Who took the most wickets in IPL 2025?
-> Best economy rate among bowlers with at least 10 overs bowled
-> Most dot balls bowled by a spinner
-> Compare Jasprit Bumrah vs Arshdeep Singh this season
+> Best economy rate in death overs
+> Compare Bumrah vs Arshdeep Singh
+> Which spinner took the most wickets?
+> Best bowling figures in a single match
 ```
 
-### 🏆 Match & Team Analysis
+### 🏆 Match & Team
 ```
 > Show me the IPL 2025 final scorecard
-> Which team won the most matches this season?
-> Head to head record between CSK and MI
-> Does winning the toss help at Wankhede Stadium?
+> Which team won the most matches?
+> Head to head: RCB vs CSK
+> Does winning toss help at Wankhede?
+> List all super over matches
 ```
 
-### 📍 Venue Analysis
+### 🦆 Fun & Quirky Questions
 ```
-> What is the average first innings score at each venue?
-> Which venue has the highest run rate?
-> Toss advantage percentage at each ground
+> How many ducks were scored this season? 🦆
+> Who got out for a duck the most times?
+> Total sixes hit in IPL 2025? 💥
+> Which match had the most sixes?
+> Who hit the most sixes in a single innings?
+> How many golden ducks (out on first ball)?
+> Which bowler gave the most sixes?
+> Funniest stat: most runs scored only in boundaries
+> Who faced the most dot balls?
+> Which team hit the most sixes in powerplay?
 ```
 
-### 🔍 Advanced Queries
+### 🔥 Spicy Comparisons
 ```
-> Which players performed best under pressure (last 5 overs while chasing)?
-> Compare team performance batting first vs chasing
-> Which bowler-batter matchup has the most dismissals?
-> Calculate the impact of winning toss on match outcome
+> Kohli vs Rohit: Who performed better?
+> MI vs CSK: All time rivalry stats
+> Best death over specialist?
+> Who chokes most under pressure? 😬
+> Most expensive over bowled this season?
 ```
 
 ---
