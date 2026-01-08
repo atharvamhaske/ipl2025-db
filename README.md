@@ -1,6 +1,6 @@
 # 🏏 IPL 2025 Cricket Database
 
-A fully normalized PostgreSQL database for IPL 2025 cricket data, optimized for natural language querying via **Blackbox DB Chat**.
+A fully normalized PostgreSQL database for IPL 2025 cricket data, optimized for natural language querying via **[Blackbox](https://blackbox.ai) DB Chat**.
 
 ---
 
@@ -113,7 +113,7 @@ Options:
   --init-schema       Initialize database schema before ingestion
 ```
 
-## 🏏 Sample Queries for Blackbox DB Chat
+## 🏏 Sample Queries for [Blackbox](https://blackbox.ai) DB Chat
 
 Once ingested, you can ask natural language questions like:
 
@@ -261,11 +261,11 @@ pip install pyyaml psycopg2-binary
 psql -U postgres -d cricketdb -c "GRANT ALL ON ALL TABLES IN SCHEMA public TO your_user"
 ```
 
-## 🤖 Blackbox DB Chat Integration
+## 🤖 [Blackbox](https://blackbox.ai) DB Chat Integration
 
-Connect your PostgreSQL database to Blackbox DB Chat:
+Connect your PostgreSQL database to [Blackbox](https://blackbox.ai) DB Chat:
 
-1. **Start Blackbox CLI:**
+1. **Start [Blackbox](https://blackbox.ai) CLI:**
    ```bash
    blackbox
    ```
@@ -281,11 +281,11 @@ Connect your PostgreSQL database to Blackbox DB Chat:
 
 3. **Start asking questions!**
 
-> 📖 See [SETUP.md](SETUP.md) for detailed Blackbox CLI database setup guide.
+> 📖 See [SETUP.md](SETUP.md) for detailed [Blackbox](https://blackbox.ai) CLI database setup guide.
 
 ---
 
-## 💬 Common Questions to Try with Blackbox CLI
+## 💬 Common Questions to Try with [Blackbox](https://blackbox.ai) CLI
 
 Once your database is connected, try these natural language queries:
 
@@ -465,4 +465,4 @@ Data sourced from [Cricsheet](https://cricsheet.org/) - Ball-by-ball cricket dat
 
 ---
 
-**Built with Blackbox AI** 🚀
+**Built with [Blackbox AI](https://blackbox.ai)** 🚀

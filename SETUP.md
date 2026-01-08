@@ -1,6 +1,6 @@
 # Chat With Your Database
 
-> Use BLACKBOX CLI to connect to your database and ask questions in plain English. Database tools run read-only queries and keep the connection active during your session for quick follow-ups.
+> Use [BLACKBOX](https://blackbox.ai) CLI to connect to your database and ask questions in plain English. Database tools run read-only queries and keep the connection active during your session for quick follow-ups.
 
 ---
 
@@ -61,7 +61,7 @@ If you skip this step, you can configure during the session when the model invok
 
 ### Step 3: Ask Questions (Read-Only)
 
-BLACKBOX CLI will connect (if needed), inspect schema, and translate your request into safe read-only queries.
+[BLACKBOX](https://blackbox.ai) CLI will connect (if needed), inspect schema, and translate your request into safe read-only queries.
 
 ```
 > show the top 10 products by total revenue last quarter
@@ -179,13 +179,13 @@ If you omit the DB name in the URI, include it in your request when asked:
 
 ---
 
-## Setting Up This IPL 2025 Database with Blackbox CLI
+## Setting Up This IPL 2025 Database with [Blackbox](https://blackbox.ai) CLI
 
 ### Quick Setup
 
 1. **Ensure PostgreSQL is running** with the `cricketdb` database populated (see main README.md)
 
-2. **Start Blackbox CLI:**
+2. **Start [Blackbox](https://blackbox.ai) CLI:**
    ```bash
    blackbox
    ```
@@ -217,4 +217,4 @@ postgresql://readonly_user:password@db.example.com:5432/cricketdb
 
 ---
 
-> **Documentation:** To find navigation and other pages in Blackbox documentation, fetch the llms.txt file at: https://docs.blackbox.ai/llms.txt
+> **Documentation:** To find navigation and other pages in [Blackbox](https://blackbox.ai) documentation, fetch the llms.txt file at: https://docs.blackbox.ai/llms.txt
