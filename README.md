@@ -8,6 +8,16 @@ A fully normalized PostgreSQL database for IPL 2025 cricket data, optimized for 
 
 ---
 
+## 🎬 Demo
+
+### Ask a question in natural language:
+![Demo Query](public/img/demo-query.png)
+
+### Get instant answers from your database:
+![Demo Response](public/img/demo-response.png)
+
+---
+
 ## 📁 Project Structure
 
 ```
